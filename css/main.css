@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img.resize{
+   width: 30%;
+   height: auto
+}
